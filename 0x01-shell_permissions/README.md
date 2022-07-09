@@ -1,1 +1,2 @@
-how to change modes and permissions on shell
+#!/bin/bash
+This directory is for managing shell permission tasks
